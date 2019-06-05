@@ -3,7 +3,7 @@ templateKey: home-page
 headerImage:
   image: /img/television.png
   imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+title: Welcome to Book Lady Jessica's Site
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
